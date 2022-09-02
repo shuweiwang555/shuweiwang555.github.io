@@ -1,0 +1,32 @@
+/* <style type="text/css"> */
+h1 {
+  font-family: Georgia, serif;
+  font-size: 40px;
+  color: rgb(22, 17, 17);
+  font-weight: normal;
+}
+
+.divv {
+  text-align: center;
+  border: 3px solid #14190d;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-weight: lighter;
+  font-style: oblique;
+  font-size: 5px;
+}
+
+
+h3 {
+  font-family: Georgia, serif;
+  font-weight: lighter;
+  font-style: oblique;
+  font-size: 1.8px;
+}
+
+h3.center {
+  text-align: center;
+}
+/* </style> */
