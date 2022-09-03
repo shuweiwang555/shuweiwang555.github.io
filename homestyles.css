@@ -1,32 +1,68 @@
 /* <style type="text/css"> */
 h1 {
-  font-family: Georgia, serif;
-  font-size: 40px;
-  color: rgb(22, 17, 17);
-  font-weight: normal;
+    font-family: Georgia, serif;
+    font-size: 42px;
+    color: rgb(26, 23, 23);
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .divv {
-  text-align: center;
-  border: 3px solid #14190d;
+    text-align: center;
+    border: 2px solid #14190d;
+    margin-right: 90px;
+    margin-left: 90px;
 }
 
 h2 {
-  font-family: Georgia, serif;
-  font-weight: lighter;
-  font-style: oblique;
-  font-size: 5px;
+    font-family: Georgia, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 5px;
 }
 
 
 h3 {
-  font-family: Georgia, serif;
-  font-weight: lighter;
-  font-style: oblique;
-  font-size: 1.8px;
+    font-family: Georgia, serif;
+    font-weight: lighter;
+    font-style: oblique;
+    font-size: 0.1em;
+    color: #14190d;
 }
 
-h3.center {
-  text-align: center;
+.objcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.center {
+    text-align: center;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+a.one:link {
+    color: #423d3d;
+    text-decoration: none;
+}
+
+a.one:visited {
+    color: #121214;
+    text-decoration: none;
+}
+
+a.one:hover {
+    text-decoration: underline;
+}
+
+/* .image{
+    width: 600px; 
+    height: 600px; 
+    object-fit: cover;"
+} */
 /* </style> */
