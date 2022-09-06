@@ -2,15 +2,15 @@
 h1 {
     font-family: Georgia, serif;
     font-size: 42px;
-    color: rgb(26, 23, 23);
+    color: #343131;
     font-weight: 500;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 10px;
 }
 
 .divv {
     text-align: center;
-    border: 2px solid #14190d;
+    border: 2px solid #343131;
     margin-right: 90px;
     margin-left: 90px;
 }
@@ -19,7 +19,9 @@ h2 {
     font-family: Georgia, serif;
     font-weight: lighter;
     font-style: oblique;
-    font-size: 5px;
+    font-size: 9px;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 
 
@@ -27,8 +29,10 @@ h3 {
     font-family: Georgia, serif;
     font-weight: lighter;
     font-style: oblique;
-    font-size: 0.1em;
+    font-size: 7px;
     color: #14190d;
+    margin-top: 8px;
+    margin-bottom: 15px;
 }
 
 .objcenter {
@@ -46,13 +50,13 @@ p {
     font-weight: bold;
 }
 
-a.one:link {
-    color: #423d3d;
+a.one {
+    color: rgb(137, 136, 136);
     text-decoration: none;
 }
 
 a.one:visited {
-    color: #121214;
+    color: rgb(65, 63, 63);
     text-decoration: none;
 }
 
